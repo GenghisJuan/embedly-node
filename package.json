@@ -21,7 +21,8 @@
     "lodash": "4.13.1",
     "superagent": "1.8.3",
     "sprintf": "0.1.5",
-    "hashish": "0.0.4"
+    "hashish": "0.0.4",
+    "querystring": "^0.2.0"
   },
   "devDependencies": {
     "mocha": "1.8.2",
