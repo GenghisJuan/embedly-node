@@ -22,12 +22,12 @@
     "superagent": "1.8.3",
     "sprintf": "0.1.5",
     "hashish": "0.0.4",
-    "querystring": "^0.2.0"
+    "querystring": "^0.2.0",
+    "winston": "3.2.1"
   },
   "devDependencies": {
     "mocha": "1.8.2",
-    "should": "13.2.3",
-    "winston": "3.2.1"
+    "should": "13.2.3"
   },
   "scripts": {
     "test": "mocha"
