@@ -23,7 +23,7 @@
     "sprintf": "0.1.5",
     "hashish": "0.0.4",
     "querystring": "^0.2.0",
-    "winston": "3.2.1"
+    "winston": "3.3.2"
   },
   "devDependencies": {
     "mocha": "1.8.2",
